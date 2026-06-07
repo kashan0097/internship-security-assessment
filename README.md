@@ -27,4 +27,4 @@ Implemented in `security-fixes.js`:
 - Node.js libraries: validator, bcrypt, jsonwebtoken, helmet, winston
 
 ## GitHub Repository
-https://github.com/kashan097/internship-security-assessment
+https://github.com/kashan0097/internship-security-assessment
